@@ -3,7 +3,7 @@ Get Google's [COVID-19 Community Mobility Reports](https://www.google.com/covid1
 * These reports provide data for changes in movement trends across the world. <br> (e.g.  Belgium has seen a 62% decrease in the amount of people going to parks.) 
 <br><br>
 ## Usage: 
-### Get data <br>
+### Get data (json)<br>
 https://google-mobility.now.sh/api/data
 
 ### Utility endpoints
