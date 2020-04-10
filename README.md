@@ -7,7 +7,8 @@ Get Google's [COVID-19 Community Mobility Reports](https://www.google.com/covid1
 https://google-mobility.now.sh/api/data
 
 ### Utility endpoints
-All countries currently available - https://google-mobility.now.sh/api/data/names
+All countries currently available - [/api/dates/names](https://google-mobility.now.sh/api/data/names) <br>
+Available report dates - [/api/data/dates](https://google-mobility.now.sh/api/data/dates)
 <br><br><br>
 ### Query parameters
 
