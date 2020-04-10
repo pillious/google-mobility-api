@@ -2,6 +2,9 @@
 Get Google's [COVID-19 Community Mobility Reports](https://www.google.com/covid19/mobility/) data in Json form. <br>
 * These reports provide data for changes in movement trends across the world. <br> (e.g.  Belgium has seen a 62% decrease in the amount of people going to parks.) 
 <br><br>
+
+[Find me on RapidAPI!](https://rapidapi.com/pillious/api/google-mobility-data)
+
 ## Usage: 
 ### Get data (json)<br>
 https://google-mobility.now.sh/api/data
